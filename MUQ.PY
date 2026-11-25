@@ -1,0 +1,4 @@
+MUQ = 12
+EET = 12
+MUQEET = MUQ +EET
+print(MUQ)
